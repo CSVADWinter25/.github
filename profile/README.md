@@ -44,7 +44,7 @@ git push -u origin main
 Weekly examples for all projects are available in this organization in the codeexamples repository.
 
 ## Contributing
-Please refer to the class code of conduct for expectations and guidelines on attribution.
+Please refer to the class [code of conduct](https://github.com/CSVADWinter25/.github/blob/main/CONDUCT.md#code-of-conduct) for expectations and guidelines on attribution.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
