@@ -1,6 +1,6 @@
 # MAT 236 Computational Systems for Visual Art and Design
 This is an organization for the Winter '25 class on computational systems for visual art and design. </br>
-These materials are derived from Professor Jennifer Jacobs' Fall '23 course.
+Course design derived from materials prepared by Professor Jennifer Jacobs for MAT 236.
 
 ## Getting Started
 1. Once you receive an invite, create a new repository on this GitHub organization. Use your first name (no spaces) as the repository name. Do not initialize a README, add a gitignore, or a license.
