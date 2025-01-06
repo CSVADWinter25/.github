@@ -36,7 +36,7 @@ Course design and materials by [Professor Jennifer Jacobs](https://pixelmaid.git
     git branch -M main
     ```
     ```
-    git remote add origin https://github.com/CSVADWinter25/"Your Repo Here'.git
+    git remote add origin https://github.com/CSVADWinter25/"Your Repo Here".git
     ```
     ```
     git push -u origin main
