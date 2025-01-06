@@ -1,6 +1,6 @@
 # MAT 236 Computational Systems for Visual Art and Design
 This is an organization for the Winter '25 class on computational systems for visual art and design. </br>
-Course design derived from materials prepared by [Professor Jennifer Jacobs](https://pixelmaid.github.io/personalweb/) for [MAT 236](https://sites.google.com/view/mat236/home).
+Course design and materials prepared by [Professor Jennifer Jacobs](https://pixelmaid.github.io/personalweb/) for [MAT 236](https://sites.google.com/view/mat236/home).
 
 **[Course Syllabus](https://github.com/CSVADWinter25/.github/blob/main/SYLLABUS.md#mat-236-computational-systems-for-visual-arts-and-design)**
 
