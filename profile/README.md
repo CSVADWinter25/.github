@@ -17,30 +17,30 @@ Course design derived from materials prepared by [Professor Jennifer Jacobs](htt
 
 6. Initialize a git repository and add your files:
   
-```
-git init
-```
-```
-git add --all
-```
+    ```
+    git init
+    ```
+    ```
+    git add --all
+    ```
 
 7. Make your first commit:
 
-```
-git commit -m "your message here"
-```
+    ```
+    git commit -m "your message here"
+    ```
 
 8. Setup your remote to point to the repository you created with your name and push your changes to the remote:
 
-```  
-git branch -M main
-```
-```
-git remote add origin https://github.com/CSVADWinter2025/studentsamplefolder.git
-```
-```
-git push -u origin main
-```
+    ```  
+    git branch -M main
+    ```
+    ```
+    git remote add origin https://github.com/CSVADWinter2025/studentsamplefolder.git
+    ```
+    ```
+    git push -u origin main
+    ```
 
 ## Resources
 Weekly examples for all projects are available in this organization in the codeexamples repository.
