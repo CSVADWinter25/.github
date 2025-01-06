@@ -14,7 +14,7 @@
 
 You may propose one idea, or several different possibilities. Projects may be collaborative. If you plan to work with other members of the class, describe how you plan to organize the work across the members of the team members.
 
-Upload your project description to Github before under a new directory entitled "FinalProject". See Sihwa Park's proposal from last year's class as an example: https://github.com/CSVAD/sihwa/tree/master/finalProject
+Upload your project description to Github before under a new directory entitled "FinalProject". See Sihwa Park's [ARLooper](https://github.com/CSVAD/sihwa/tree/master/finalProject).
 
 Proposals will be presented in class on due **March 3rd**. Proposals should be edited based on peer and instructor feedback.
 
