@@ -35,7 +35,7 @@ Readings and reading reflection slides should be completed before **10am on Mond
 
 **Asynchronous:** Instructor support.
 
-**Final Project:** Please see Final Project detail page. 
+**Final Project:** Please see [Final Project](https://github.com/CSVADWinter25/.github/blob/main/FINAL.md#final-project) detail page. 
 
 ### Readings and Discussions
 Students will be assigned weekly readings drawn from Fine Art, Computer Graphics, Computational Design and Human Computer Interaction texts. Students are expected to complete the required readings and a reading reflection slide by **Monday at 10am**, as well as engage in group discussions in class. Students should also leave comments on at least 2 other reading reflection from their peers by the **following Monday**. 
