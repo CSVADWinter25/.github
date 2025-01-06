@@ -1,5 +1,5 @@
 # Code of Conduct
-All members of this course have the following responsibilities as learners, facilitators of learning, and as participants in dialog and discussion. This document was inspired by and references the p5.js community statement, and is derived from the code of conduct written for MAT236 by Professor Jennifer Jacobs.
+All members of this course have the following responsibilities as learners, facilitators of learning, and as participants in dialog and discussion. This document was inspired by and references the p5.js community statement, and is derived from the code of conduct written for MAT 236 by Professor Jennifer Jacobs.
 
 ## As Learners
 * Actively ask for help from your peers.
