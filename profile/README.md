@@ -43,7 +43,7 @@ Course design and materials by [Professor Jennifer Jacobs](https://pixelmaid.git
     ```
 
 ## Resources
-Weekly examples for all projects are available in this organization in the codeexamples repository.
+Weekly examples for all projects are available in this organization in the [Code Examples](https://github.com/CSVADWinter25/Code-Examples) repository.
 
 ## Contributing
 Please refer to the class [code of conduct](https://github.com/CSVADWinter25/.github/blob/main/CONDUCT.md#code-of-conduct) for expectations and guidelines on attribution.
